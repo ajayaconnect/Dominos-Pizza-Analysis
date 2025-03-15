@@ -1,5 +1,5 @@
-**🍕 **Domino's Pizza Data Analysis Project**
-**
+**🍕 Domino's Pizza Data Analysis Project**
+
 **📌 **Project Overview****
 
 This project analyzes Domino's Pizza sales data to uncover insights into sales performance, ingredient usage, peak order times, and revenue trends. The findings help optimize menu pricing, inventory management, and promotional strategies for better business performance.
@@ -60,21 +60,21 @@ Developed a sales dashboard to visualize trends.
 
 Used word clouds to highlight popular ingredients.
 
-📈 Key Insights
+**📈 Key Insights**
 
-🔹 Overall Metrics
+**🔹 Overall Metrics**
 
-Total Sales: 💰 $817,860 (Strong revenue performance)
+**Total Sales:** 💰 $817,860 (Strong revenue performance)
 
-Total Orders: 🛒 49,574 (High transaction volume)
+**Total Orders:** 🛒 49,574 (High transaction volume)
 
-Average Order Value (AOV): $16.50 (Potential for optimization)
+**Average Order Value (AOV)**: $16.50 (Potential for optimization)
 
-🔹 Peak Sales Hour
+**🔹 Peak Sales Hour**
 
-🕛 12 PM (Lunchtime) → The busiest period for orders.
+**🕛 12 PM (Lunchtime)** → The busiest period for orders.
 
-🔹 Top-Selling Pizzas
+**🔹 Top-Selling Pizzas**
 
 Pizza Name
 
@@ -92,45 +92,45 @@ California Chicken Pizza
 
 41,410
 
-🔹 Pizza Size Distribution
+**🔹 Pizza Size Distribution**
 
 Large (L) accounts for 46% of total sales, making it the most preferred size.
 
 Smaller sizes (M and S) contribute significantly, while XXL has minimal sales.
 
-🔹 Most & Least Profitable Pizzas
+**🔹 Most & Least Profitable Pizzas**
 
 Most Profitable Pizza: Thai Chicken Pizza (L) 🏆
 
 Least Profitable Pizza: Brie Carre Pizza (XXL) ❌
 
-🔹 Ingredient Usage
+**🔹 Ingredient Usage**
 
 Most Used Ingredients: 🧀 Cheese, Pepperoni, Mushrooms, Red Onions, Bacon.
 
 Least Used Ingredients: 🫒 Olives, Jalapeños (Potential for inventory reduction).
 
-🔹 Sales Trends
+**🔹 Sales Trends**
 
-📆 Busiest Day: Saturday (Highest revenue and order volume).
+**📆 Busiest Day:** Friday (Highest revenue and order volume).
 
-📉 Slowest Day: Monday (Opportunity for promotional campaigns).
+**📉 Slowest Day:** Sunday (Opportunity for promotional campaigns).
 
-📌 Strategic Recommendations
+**📌 Strategic Recommendations**
 
-Menu Optimization → Discontinue or revamp low-performing XXL pizzas.
+**Menu Optimization** → Discontinue or revamp low-performing XXL pizzas.
 
-Dynamic Pricing Strategy → Adjust pricing for Large pizzas to maximize profitability.
+**Dynamic Pricing Strategy** → Adjust pricing for Large pizzas to maximize profitability.
 
-Inventory Management → Reduce storage of low-demand ingredients to minimize waste.
+**Inventory Management** → Reduce storage of low-demand ingredients to minimize waste.
 
-Peak Hour Promotions → Offer targeted discounts during lunchtime (12 PM) to drive more sales.
+**Peak Hour Promotions **→ Offer targeted discounts during lunchtime (12 PM) to drive more sales.
 
-Upselling & Cross-Selling → Introduce combo deals to encourage Medium & Small pizza purchases.
+**Upselling & Cross-Selling** → Introduce combo deals to encourage Medium & Small pizza purchases.
 
-Customer Loyalty Programs → Reward repeat customers to boost retention and repeat purchases.
+**Customer Loyalty Programs** → Reward repeat customers to boost retention and repeat purchases.
 
-📊 Visualizations & Dashboards
+**📊 Visualizations & Dashboards**
 
 📈 Sales Trends Dashboard (Total sales, order trends, revenue patterns)
 
@@ -140,7 +140,7 @@ Customer Loyalty Programs → Reward repeat customers to boost retention and rep
 
 🛒 Ingredient Frequency Word Cloud (Most used ingredients)
 
-🛠️ Technologies Used
+**🛠️ Technologies Used**
 
 📊 Microsoft Excel (Power Query, Pivot Tables, Charts)
 
