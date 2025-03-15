@@ -106,7 +106,7 @@ Least Profitable Pizza: Brie Carre Pizza (XXL) ❌
 
 **🔹 Ingredient Usage**
 
-Most Used Ingredients: 🧀 Cheese, Pepperoni, Mushrooms, Red Onions, Bacon.
+Most Used Ingredients: 🧀 Tomatoes,Red Onions,Red Peppers,Mozzarella Cheese,Garlic,Green Olives,Cheese,Spinach,Feta Cheese,Peppers.
 
 Least Used Ingredients: 🫒 Olives, Jalapeños (Potential for inventory reduction).
 
