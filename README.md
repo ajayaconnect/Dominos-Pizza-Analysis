@@ -1,12 +1,12 @@
-🍕 **Domino's Pizza Data Analysis Project**
-
-📌 Project Overview
+**🍕 **Domino's Pizza Data Analysis Project**
+**
+**📌 **Project Overview****
 
 This project analyzes Domino's Pizza sales data to uncover insights into sales performance, ingredient usage, peak order times, and revenue trends. The findings help optimize menu pricing, inventory management, and promotional strategies for better business performance.
 
-🚀 Business Problem
+**🚀 **Business Problem****
 
-Challenges Faced by Domino's:
+**Challenges Faced by Domino's:**
 
 Identifying Best-Selling & Least-Selling Pizzas → Optimize the menu based on sales performance.
 
@@ -18,7 +18,7 @@ Peak Order Hours & Sales Trends → Improve staffing and promotions based on dem
 
 Customer Demand & Personalization → Create targeted promotions and upselling opportunities.
 
-📊 Dataset Description
+**📊 **Dataset Description****
 
 The dataset contains the following key columns:
 
@@ -34,7 +34,7 @@ unit_price, total_price → Pricing details.
 
 pizza_size, pizza_category, pizza_ingredients → Product attributes.
 
-🛠️ Methodology
+**🛠️ Methodology**
 
 Data Cleaning & Preprocessing
 
