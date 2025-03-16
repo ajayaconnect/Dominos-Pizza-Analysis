@@ -82,33 +82,33 @@ This project analyzes Domino's Pizza sales data to uncover insights into sales p
 
 - **Thai Chicken Pizza**
 
-43,434
+- **43,434**
 
-Barbecue Chicken Pizza
+- **Barbecue Chicken Pizza**
 
-42,766
+- **42,766**
 
-California Chicken Pizza
+- **California Chicken Pizza**
 
-41,410
+- **41,410**
 
 **🔹 Pizza Size Distribution**
 
-Large (L) accounts for 46% of total sales, making it the most preferred size.
+- **Large (L) accounts for 46% of total sales, making it the most preferred size.**
 
-Smaller sizes (M and S) contribute significantly, while XXL has minimal sales.
+- **Smaller sizes (M and S) contribute significantly, while XXL has minimal sales.**
 
 **🔹 Most & Least Profitable Pizzas**
 
-Most Profitable Pizza: Thai Chicken Pizza (L) 🏆
+- **Most Profitable Pizza: Thai Chicken Pizza (L) 🏆**
 
-Least Profitable Pizza: Brie Carre Pizza (XXL) ❌
+- **Least Profitable Pizza: Brie Carre Pizza (XXL) ❌**
 
 **🔹 Ingredient Usage**
 
-Most Used Ingredients: 🧀 Tomatoes,Red Onions,Red Peppers,Mozzarella Cheese,Garlic,Green Olives,Cheese,Spinach,Feta Cheese,Peppers.
+- **Most Used Ingredients: 🧀 Tomatoes,Red Onions,Red Peppers,Mozzarella Cheese,Garlic,Green Olives,Cheese,Spinach,Feta Cheese,Peppers.**
 
-Least Used Ingredients: 🫒 Olives, Jalapeños (Potential for inventory reduction).
+- **Least Used Ingredients: 🫒 Olives, Jalapeños (Potential for inventory reduction).**
 
 **🔹 Sales Trends**
 
@@ -132,19 +132,17 @@ Least Used Ingredients: 🫒 Olives, Jalapeños (Potential for inventory reducti
 
 **📊 Visualizations & Dashboards**
 
-📈 Sales Trends Dashboard (Total sales, order trends, revenue patterns)
+- **📈 Sales Trends Dashboard (Total sales, order trends, revenue patterns)**
 
-🍕 Pizza Performance Chart (Most & least profitable pizzas)
+- **🍕 Pizza Performance Chart (Most & least profitable pizzas)**
 
-🕛 Peak Hour Analysis Chart (Busiest times for orders)
+- **🕛 Peak Hour Analysis Chart (Busiest times for orders)**
 
-🛒 Ingredient Frequency Word Cloud (Most used ingredients)
+- **🛒 Ingredient Frequency Word Cloud (Most used ingredients)**
 
 **🛠️ Technologies Used**
 
-📊 Microsoft Excel (Power Query, Pivot Tables, Charts)
+- **📊 Microsoft Excel (Power Query, Pivot Tables, Charts)**
 
-📉 Power BI (Advanced Dashboards, Word Cloud Visuals)
-
-📌 SQL (Data Extraction & Querying for Analysis)
+- **📉 Power BI (Advanced Dashboards, Word Cloud Visuals)**
 
