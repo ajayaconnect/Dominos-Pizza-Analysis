@@ -8,57 +8,57 @@ This project analyzes Domino's Pizza sales data to uncover insights into sales p
 
 **Challenges Faced by Domino's:**
 
-Identifying Best-Selling & Least-Selling Pizzas → Optimize the menu based on sales performance.
+- **Identifying Best-Selling & Least-Selling Pizzas → Optimize the menu based on sales performance.**
 
-Revenue Optimization & Pricing Strategy → Determine the most profitable pizza sizes.
+- **Revenue Optimization & Pricing Strategy → Determine the most profitable pizza sizes.
+**
+- **Ingredient Usage & Inventory Management → Prevent shortages and minimize waste.**
 
-Ingredient Usage & Inventory Management → Prevent shortages and minimize waste.
+- **Peak Order Hours & Sales Trends → Improve staffing and promotions based on demand.**
 
-Peak Order Hours & Sales Trends → Improve staffing and promotions based on demand.
-
-Customer Demand & Personalization → Create targeted promotions and upselling opportunities.
-
+- **Customer Demand & Personalization → Create targeted promotions and upselling opportunities.
+**
 **📊 **Dataset Description****
 
-The dataset contains the following key columns:
+- **The dataset contains the following key columns:**
 
-order_id → Unique identifier for each order.
+- **order_id → Unique identifier for each order.
+**
+- **pizza_name → Name of the pizza ordered.**
 
-pizza_name → Name of the pizza ordered.
+- **quantity → Number of pizzas per order.**
 
-quantity → Number of pizzas per order.
+- **order_date, order_time → Timestamp details.**
 
-order_date, order_time → Timestamp details.
+- **unit_price, total_price → Pricing details.**
 
-unit_price, total_price → Pricing details.
-
-pizza_size, pizza_category, pizza_ingredients → Product attributes.
+- **pizza_size, pizza_category, pizza_ingredients → Product attributes.**
 
 **🛠️ Methodology**
 
-Data Cleaning & Preprocessing
+- **Data Cleaning & Preprocessing
+**
+- ** Handled missing values and inconsistent data.**
 
-Handled missing values and inconsistent data.
+- **Extracted time-based insights (Hour, Day, Month).**
 
-Extracted time-based insights (Hour, Day, Month).
+- **Split multi-ingredient columns for better analysis.**
 
-Split multi-ingredient columns for better analysis.
+- **Exploratory Data Analysis (EDA)**
 
-Exploratory Data Analysis (EDA)
+- **Identified top-selling pizzas and revenue contributors.**
 
-Identified top-selling pizzas and revenue contributors.
+- **Analyzed ingredient frequency for inventory optimization.**
 
-Analyzed ingredient frequency for inventory optimization.
+- **Examined order volume by time, day, and month.**
 
-Examined order volume by time, day, and month.
+- **Visualization & Business Insights**
 
-Visualization & Business Insights
+- **Created interactive Pivot Tables & Charts for key metrics.**
 
-Created interactive Pivot Tables & Charts for key metrics.
+- **Developed a sales dashboard to visualize trends.**
 
-Developed a sales dashboard to visualize trends.
-
-Used word clouds to highlight popular ingredients.
+- **Used word clouds to highlight popular ingredients.**
 
 **📈 Key Insights**
 
@@ -76,11 +76,11 @@ Used word clouds to highlight popular ingredients.
 
 **🔹 Top-Selling Pizzas**
 
-Pizza Name
+- **Pizza Name**
 
-Total Sales
+- **Total Sales**
 
-Thai Chicken Pizza
+- **Thai Chicken Pizza**
 
 43,434
 
