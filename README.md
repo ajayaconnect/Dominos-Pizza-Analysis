@@ -124,7 +124,7 @@ This project analyzes Domino's Pizza sales data to uncover insights into sales p
 
 **Inventory Management** → Reduce storage of low-demand ingredients to minimize waste.
 
-**Peak Hour Promotions **→ Offer targeted discounts during lunchtime (12 PM) to drive more sales.
+- **Peak Hour Promotions → Offer targeted discounts during lunchtime (12 PM) to drive more sales.**
 
 **Upselling & Cross-Selling** → Introduce combo deals to encourage Medium & Small pizza purchases.
 
