@@ -10,20 +10,20 @@ This project analyzes Domino's Pizza sales data to uncover insights into sales p
 
 - **Identifying Best-Selling & Least-Selling Pizzas → Optimize the menu based on sales performance.**
 
-- **Revenue Optimization & Pricing Strategy → Determine the most profitable pizza sizes.
-**
+- **Revenue Optimization & Pricing Strategy → Determine the most profitable pizza sizes.**
+  
 - **Ingredient Usage & Inventory Management → Prevent shortages and minimize waste.**
 
 - **Peak Order Hours & Sales Trends → Improve staffing and promotions based on demand.**
 
-- **Customer Demand & Personalization → Create targeted promotions and upselling opportunities.
-**
+- **Customer Demand & Personalization → Create targeted promotions and upselling opportunities.**
+
 **📊 **Dataset Description****
 
 - **The dataset contains the following key columns:**
 
-- **order_id → Unique identifier for each order.
-**
+- **order_id → Unique identifier for each order.**
+
 - **pizza_name → Name of the pizza ordered.**
 
 - **quantity → Number of pizzas per order.**
@@ -36,9 +36,9 @@ This project analyzes Domino's Pizza sales data to uncover insights into sales p
 
 **🛠️ Methodology**
 
-- **Data Cleaning & Preprocessing
-**
-- ** Handled missing values and inconsistent data.**
+- **Data Cleaning & Preprocessing**
+
+-  **Handled missing values and inconsistent data.**
 
 - **Extracted time-based insights (Hour, Day, Month).**
 
