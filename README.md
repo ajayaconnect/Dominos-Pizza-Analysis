@@ -1,5 +1,7 @@
 **🍕 Domino's Pizza Data Analysis Project**
 
+![DOMINOS LOGO](https://github.com/ajayaconnect/Dominos-Pizza-Analysis/blob/9f73bfbaaa5eb2a93d3316857c9d14927f0dfa07/dominos-pizza-seeklogo.png)
+
 **📌 **Project Overview****
 
 This project analyzes Domino's Pizza sales data to uncover insights into sales performance, ingredient usage, peak order times, and revenue trends. The findings help optimize menu pricing, inventory management, and promotional strategies for better business performance.
